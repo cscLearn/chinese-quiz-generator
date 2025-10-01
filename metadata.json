@@ -1,0 +1,5 @@
+{
+  "name": "Chinese Quiz Generator",
+  "description": "An AI-powered web application that automatically generates Chinese reading comprehension quizzes with multiple-choice questions based on user-specified topics and difficulty levels.",
+  "requestFramePermissions": []
+}
